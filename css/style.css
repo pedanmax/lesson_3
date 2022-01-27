@@ -1,0 +1,67 @@
+
+header .header__title {
+    color:red;
+}
+
+ul li a {
+    color:orange;
+}
+
+.content__history-title,.content__game-proces-title,.content__teams-title,.content__maps-title,.content__guns-title {
+    color: green;
+}
+
+p.content__history-text {
+    color:saddlebrown;
+}
+
+#content__game-proces p {
+    color:wheat;
+}
+
+div.content__teams-terrorist-man p {
+    color: red;
+}
+
+#content__teams-terrorist h3{
+    color: sienna;
+}
+.content__teams-counter-terrorist-man p {
+    color:royalblue;
+}
+
+#content__teams-counter-terrorist h3 {
+    color: slateblue;
+}
+
+div.content__maps-dd2 h3.content__maps-dd2-title  {
+    color: coral;
+}
+
+.content__maps-dd2 p {
+    color:darkslategrey;
+}
+
+h3.content__maps-nuke-title, h3.content__maps-inferno-title, h3.content__maps-office-title {
+    color: coral;
+}
+
+.content__maps-nuke p {
+    color:darkred;
+}
+
+div.content__maps-inferno{
+    color: green;
+}
+
+.content__maps-office  {
+    color:darkslategray;
+}
+
+#content__guns p {
+    color:darkcyan;
+}
+
+footer .footer__subtitle {
+    color:orangered;
+}
